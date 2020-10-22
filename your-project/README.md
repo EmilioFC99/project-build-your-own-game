@@ -3,7 +3,7 @@
 # Title of My Project
 *Emilio Flores Cortes*
 
-*[Your Cohort, Ciudad de Mexico & 24 Agosto 2020]*
+Data Analytics Part-time, Ciudad de Mexico & 24 Agosto 2020
 
 ## Content
 - [Project Description](#project-description)
