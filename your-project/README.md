@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # 21-BLACKJACK
-*Emilio Flores Cortes*
+*Emilio Flores and Fabio Bisognin*
 
 Data Analytics Part-time, Ciudad de Mexico & 24 Agosto 2020
 
