@@ -31,10 +31,6 @@ We used monday.com to organize the tasks and the time that each of them needed t
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-https://github.com/EmilioFC99/project-build-your-own-game
-https://juego-ironhack.monday.com/boards/793186746/
-
 [Repository]https://github.com/EmilioFC99/project-build-your-own-game  
 [Slides](https://slides.com/)
 [Monday.com]https://juego-ironhack.monday.com/boards/793186746/https://juego-ironhack.monday.com/boards/793186746/ 
