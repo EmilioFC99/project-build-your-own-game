@@ -1,12 +1,12 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Emilio Flores Cortes*
 
-*[Your Cohort, Campus & Date]*
+*[Your Cohort, Ciudad de Mexico & 24 Agosto 2020]*
 
 ## Content
-- [Project Description](#project-description)
+- Game: 21-Blackjack simplified(#project-description)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
