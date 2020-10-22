@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# 21-BLACKJACK
 *Emilio Flores Cortes*
 
 Data Analytics Part-time, Ciudad de Mexico & 24 Agosto 2020
