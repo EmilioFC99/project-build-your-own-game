@@ -6,7 +6,7 @@
 *[Your Cohort, Ciudad de Mexico & 24 Agosto 2020]*
 
 ## Content
-- Game: 21-Blackjack simplified(#project-description)
+- [Project Description](#project-description)
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
