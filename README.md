@@ -24,7 +24,7 @@ FUNCTIONS:
                               If the player's hand > dealer hand and </-21: "Congratilation, you win!!!"
                               If the dealer's hand < player's hand and </-21: "You lose"
                               If the dealer's hand is the player's hand: "Draw 
-  - Function "
+  - Function "GIVE_CARD": 
 
 <a name="workflow"></a>
 
