@@ -17,6 +17,14 @@ Data Analytics Part-time, Mexico City & August 24, 2020
 We make our first game in python, 21-Blackjack but simplified without 'Split' option, betting and only 11 as the value of As.
 21 Blackjack was like the first game that came to our minds and while we were discussing it we thought it could be easy.
 
+FUNCTIONS:
+  -DECK= El deck es el conjunto de cartas del As hasta el Rey en los 4 signos, por un total de 52 elementos. En python creó como diccionario de donde cada llave(cartas)                  corresponde a un valor (los puntos).
+  -FUNCIÓN “SHOW_HAND”: Es la función que , con base al diccionario de la mano (ya sea del jugador o del dealer) imprime el string: “Cards are {llaves del deck} and the value is           {suma de los puntos de las cartas}. 
+  - FUNCIÓN “CHOOSE_WINNER”: Es la función que, con base a la suma de puntos de cada jugador (jugador y dealer), arroja los siguientes storing: 
+                              Si la mano del jugador > mano dealer y </=21: “Congratilation, you win!!!”
+                              Si la mano del dealer < mano del jugador y </=21: “You lose”
+                              Si la mano del dealer = mano del jugador: “Draw”
+
 <a name="workflow"></a>
 
 ## Workflow
