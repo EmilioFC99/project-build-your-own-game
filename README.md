@@ -18,12 +18,13 @@ We make our first game in python, 21-Blackjack but simplified without 'Split' op
 21 Blackjack was like the first game that came to our minds and while we were discussing it we thought it could be easy.
 
 FUNCTIONS:
-  - DECK= El deck es el conjunto de cartas del As hasta el Rey en los 4 signos, por un total de 52 elementos. En python creó como diccionario de donde cada llave(cartas)                  corresponde a un valor (los puntos).
-  - FUNCIÓN “SHOW_HAND”: Es la función que , con base al diccionario de la mano (ya sea del jugador o del dealer) imprime el string: “Cards are {llaves del deck} and the value                         is {suma de los puntos de las cartas}. 
-  - FUNCIÓN “CHOOSE_WINNER”: Es la función que, con base a la suma de puntos de cada jugador (jugador y dealer), arroja los siguientes storing: 
-                              Si la mano del jugador > mano dealer y </=21: “Congratilation, you win!!!”
-                              Si la mano del dealer < mano del jugador y </=21: “You lose”
-                              Si la mano del dealer = mano del jugador: “Draw”
+  - DECK = El deck es el conjunto de cartas del As hasta el Rey en los 4 signos, por un total de 52 elementos. En python se creo como diccionario donde cada llave (cartas)                  corresponde a un valor (los puntos).
+  - FUNCTION “SHOW_HAND”: It is the function that, based on the hand dictionary (whether from the player or the dealer) prints the string: "Cards are {deck keys} and the value                             is {the sum of the points on the cards}. 
+  - FUNCTION “CHOOSE_WINNER”: It is the function that, based on the sum of points of each player (player and dealer), throws the followings: 
+                              If the player's hand > dealer hand and </-21: "Congratilation, you win!!!"
+                              If the dealer's hand < player's hand and </-21: "You lose"
+                              If the dealer's hand is the player's hand: "Draw 
+  - Function "
 
 <a name="workflow"></a>
 
