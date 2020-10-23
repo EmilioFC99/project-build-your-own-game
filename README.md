@@ -24,14 +24,14 @@ FUNCTIONS:
                                 If the player's hand > dealer hand and </-21: "Congratilation, you win!!!"
                                 If the dealer's hand < player's hand and </-21: "You lose"
                                 If the dealer's hand is the player's hand: "Draw 
-  - Function "give_card": This takes as parameter 'n' (the number of cards that will be delivered), then from the                               deck using the random.choice we took the 'n' cards we need, we delete those cards from the                           deck and then we return the cards we took as a dict
-  - FUNTCION "sum_points": Takes a card and return the value of the card
+  - FUNCTION "give_card": This takes as parameter 'n' (the number of cards that will be delivered), then from the                               deck using the random.choice we took the 'n' cards we need, we delete those cards from the                           deck and then we return the cards we took as a dict
+  - FUNCTION "sum_points": Takes a card and return the value of the card
 
 <a name="workflow"></a>
 
 ## Workflow
 The first day we decided the game, then we made our flowchart to know how the games works and what we would be. 
-Once we had that done, we began to define what functions we will use and we split them between the two. Finally, we proceeded to code the functions and we joined all parts and fiex problems.
+Once we had that done, we began to define what functions we will use and we split them between the two. Finally, we proceeded to code the functions and we joined all parts and fixed problems.
 
 <a name="organization"></a>
 
