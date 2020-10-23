@@ -19,13 +19,13 @@ We make our first game in python, 21-Blackjack but simplified without 'Split' op
 
 FUNCTIONS:
   - DECK = El deck es el conjunto de cartas del As hasta el Rey en los 4 signos, por un total de 52 elementos. En python se creo como diccionario donde cada llave (cartas)                  corresponde a un valor (los puntos).
-  - FUNCTION “show_hands”: It is the function that, based on the hand dictionary (whether from the player or the                                dealer) prints the string: "Cards are {deck keys} and the value                                                       is {the sum of the points on the cards}. 
-  - FUNCTION “choose_winner”: It is the function that, based on the sum of points of each player (player and dealer),                               throws the followings: 
+  - FUNCTION “show_hands”: It is the function that, based on the hand dictionary (whether from the player or the dealer) prints the string: "Cards are {deck keys} and the value                             is {the sum of the points on the cards}. 
+  - FUNCTION “choose_winner”: It is the function that, based on the sum of points of each player (player and dealer),throws the followings: 
                                 If the player's hand > dealer hand and </-21: "Congratilation, you win!!!"
                                 If the dealer's hand < player's hand and </-21: "You lose"
                                 If the dealer's hand is the player's hand: "Draw 
-  - FUNCTION "give_card": This takes as parameter 'n' (the number of cards that will be delivered), then from the                               deck using the random.choice we took the 'n' cards we need, we delete those cards from the                           deck and then we return the cards we took as a dict
-  - FUNCTION "sum_points": Takes a card and return the value of the card
+  - FUNCTION "give_card": This takes as parameter 'n' (the number of cards that will be delivered), then from the deck using the random.choice we                                                           took the 'n' cards we need, we delete those cards from thedeck and then we return the cards we took as a dict
+  - FUNCTION "sum_points": Takes a card or a hand and return the sum of all the value(s) of the hand/card.
 
 <a name="workflow"></a>
 
