@@ -3,7 +3,7 @@
 # 21-BLACKJACK
 *Emilio Flores and Fabio Bisognin*
 
-Data Analytics Part-time, Ciudad de Mexico & 24 Agosto 2020
+Data Analytics Part-time, Mexico City & August 24, 2020
 
 ## Content
 - [Project Description](#project-description)
